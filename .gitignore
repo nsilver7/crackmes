@@ -2,4 +2,5 @@
 *.o
 *.32
 *.64
-
+.gdb_history
+peda*.txt
